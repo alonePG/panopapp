@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_home.xml" value="0.2851851851851852" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_minus.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_minus02.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_minus03.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_minus04.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_minus05.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_multiplied.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_multiplied02.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_multiplied03.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_multiplied04.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_multiplied05.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_plus.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_plus02.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_plus03.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_plus04.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_magth_game_plus05.xml" value="0.36666666666666664" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/AndroidStudioProjects/MathGame/app/src/main/res/layout/activity_math_score.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
